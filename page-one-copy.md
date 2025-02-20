@@ -1,3 +1,4 @@
+
 # Discover the World of Mushroom Foraging
 
 Mushroom foraging is the art and science of identifying and collecting wild mushrooms.
@@ -44,3 +45,4 @@ Learn more
 Happy Foraging!
 
 contact@fungifinders.com
+
